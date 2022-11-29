@@ -1,0 +1,1 @@
+import Asteroid from "./asteroid";
